@@ -19,5 +19,5 @@ To install the dictionary, remove the contents of an unneeded language and repla
 Libreoffice installs dictionaries using .oxt extentions. I'm not using it anymore so good luck figuring out how to make one <3
 
 # Credits
-This list of words was created using the CEFR-J Vocabulary Profile (ver 1.5), a vocabulary list annotated with A1 to B2 classifications for each word.
+This list of words was created using the ![CEFR-J Vocabulary Profile (ver 1.5)](https://github.com/openlanguageprofiles/olp-en-cefrj/blob/master/cefrj-vocabulary-profile-1.5.csv), a vocabulary list annotated with A1 to B2 classifications for each word.
 In addition, kind thanks to ![this](https://web.archive.org/web/20130810100226/http://www.suares.com/index.php?page_id=25&news_id=233) useful explanation of hunspell files.
