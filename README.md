@@ -1,7 +1,7 @@
 # Simple English Dictionary
 _Usecase:_ You are used to reading complex English but need to write texts for a beginner audience. Sure, vocabulary analyzers such as textinspector.com and AntWordProfiler exist but they require swapping tools and getting used to a new workflow.
 
-Wouldn't it be nice to see when you are using complex English during writing? This is where the dictionary files come in.
+Wouldn't it be nice to see when you are using complex English during writing? This is where these dictionary files come in.
 By installing the provided files in your text-processor and selecting it in your spellchecker, your text-processor will start showing
 English words of C1 language level and higher as incorrect. See a red squiggly line? Change the word!  Unintrusive, simple, and just like you used to.
 
